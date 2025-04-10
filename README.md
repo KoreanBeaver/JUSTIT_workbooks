@@ -77,7 +77,11 @@ Studied basic Python syntax and make very simple working scripts and practiced t
 ![Pandas](/Workbooks/Week%206/pandas.png)
 
 ```
-Introduced to google colab for developing envrionment for Pandas. Basic Pandas syntax and features were delivered such as dictionary and useful methods. Creating new dataframe, import dataframe externally, and edit dataframe. Data cleaning ideas and creating visualisations through Pandas was also introduced.
+Introduced to google colab for developing envrionment for Pandas.
+Basic Pandas syntax and features were delivered such as dictionary
+and useful methods. Creating new dataframe, import dataframe
+externally, and edit dataframe. Data cleaning ideas and creating
+visualisations through Pandas was also introduced.
 ```
 
 ## 🚧 Project Structure
