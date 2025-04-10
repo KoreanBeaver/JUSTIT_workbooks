@@ -39,7 +39,7 @@ Workbook 6 - Python and Pandas
 
 ### 🔎 PowerBI
 
-![PowerBILab](/Workbooks/Week%202/PowerBIlab.png)
+![PowerBILab](/Workbooks/Week%202/powerBI.png)
 
 ## 📖 Week 3 - Data Structure and SQL
 
@@ -57,9 +57,28 @@ Workbook 6 - Python and Pandas
 
 ![senario](/Workbooks/Week%205/senario.png)
 
-```Senario based work, think and suggest best could service solutions with client's budget, situation and need. Practice of understanding different services on Azure and platform suggetions.```
+```
+Senario based work, think and suggest best could service solutions with client's budget, situation and need. Practice of understanding different services on Azure and platform suggetions.
+```
 
 ## 📖 Week 6 - Python and Pandas
+
+### 🔎 Python Basic Syntax
+
+![PythonSyntax](/Workbooks/Week%206/python.png)
+
+```
+Fresh introduction to installing Python and setting up different types of IDE such as VS code, Jupyter and Anaconda.
+Studied basic Python syntax and make very simple working scripts and practiced through workbook.
+```
+
+### 🔎 Pandas Library
+
+![Pandas](/Workbooks/Week%206/pandas.png)
+
+```
+Introduced to google colab for developing envrionment for Pandas. Basic Pandas syntax and features were delivered such as dictionary and useful methods. Creating new dataframe, import dataframe externally, and edit dataframe. Data cleaning ideas and creating visualisations through Pandas was also introduced.
+```
 
 ## 🚧 Project Structure
 JUSTIT_workbooks/ ├── data/ # Data files ├── notebooks/ # Jupyter notebooks or workbooks ├── src/ # Source code ├── requirements.txt # Required libraries ├── README.md # Project description └── LICENSE # License information
