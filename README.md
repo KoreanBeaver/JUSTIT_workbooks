@@ -91,19 +91,19 @@ visualisations through Pandas was also introduced.
 │   ├── 02_Conditional_Statements.ipynb
 │   ├── 03_Loops.ipynb
 │   ├── 04_Function.ipynb
-│   └── ... (기타 파이썬 복습 노트북들)
+│   └── ...
 │
 ├── 02_Pandas/
 │   ├── 01_Series.ipynb
 │   ├── 02_DataFrame.ipynb
 │   ├── 03_Indexing_And_Slicing.ipynb
 │   ├── 04_GroupBy.ipynb
-│   └── ... (기타 Pandas 관련 노트북)
+│   └── ... 
 │
 ├── 03_Matplotlib_Seaborn/
 │   ├── 01_Matplotlib_Basics.ipynb
 │   ├── 02_Seaborn_Basics.ipynb
-│   └── ... (시각화 관련 노트북)
+│   └── ... 
 │
 ├── 04_SQL/
 │   └── 01_SQL_Basics.ipynb
@@ -112,7 +112,7 @@ visualisations through Pandas was also introduced.
 │   └── 01_Numpy_Basics.ipynb
 │
 ├── README.md
-└── requirements.txt (필요시 생성)
+└── requirements.txt (create if needed)
 ```
 
 ## Contributing
