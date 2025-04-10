@@ -115,7 +115,7 @@ visualisations through Pandas was also introduced.
 └── requirements.txt (create if needed)
 ```
 
-## Contributing
+## 🖥 Contributing
 1. To contribute to this project, please create an **issue** or submit a **pull request**.
 2. Before contributing, please check the **documentation** and, if necessary, provide additional explanations.
 
