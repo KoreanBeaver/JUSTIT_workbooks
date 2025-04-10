@@ -22,27 +22,43 @@ Workbook 6 - Python and Pandas
 
 ## 💾 Contents
 ## 📖 Week 1 - Excel Essentials
-🔎 VLOOKUP
+### 🔎 VLOOKUP
 
 ![VLOOUP](/Workbooks/Week%201/VLOOKUP.png)
 
-🔎 Pivot Table
+### 🔎 Pivot Table
 
 ![VLOOUP](/Workbooks/Week%201/Pivot%20Table.png)
 
 ## 📖 Week 2 - Tableau and PowerBI
-🔎 Tableau
+### 🔎 Tableau
 
 ![Tableau](/Workbooks/Week%202/Tableau.png)
 
 ![Tableau](/Workbooks/Week%202/Tableau2.png)
 
-🔎 PowerBI
+### 🔎 PowerBI
 
 ![PowerBILab](/Workbooks/Week%202/PowerBIlab.png)
 
 ## 📖 Week 3 - Data Structure and SQL
+
+### 🔎 Data Structure
+
+![Schema](/Workbooks/Week%203/datastructure.png)
+
+### 🔎 SQL
+
+![SQLDataFrameCreate](/Workbooks/Week%203/SQL.png)
+
 ## 📖 Week 5 - Cloud Computing(Azure) and Data Modelling
+
+### 🔎 Senario Cloud Computing Consult
+
+![senario](/Workbooks/Week%205/senario.png)
+
+```Senario based work, think and suggest best could service solutions with client's budget, situation and need. Practice of understanding different services on Azure and platform suggetions.```
+
 ## 📖 Week 6 - Python and Pandas
 
 ## 🚧 Project Structure
