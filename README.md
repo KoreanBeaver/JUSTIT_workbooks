@@ -1,35 +1,56 @@
 # JUSTIT_workbooks
 
-## Project Description
-`JUSTIT Workbooks` is a collection of workbooks designed to assist with **[briefly describe the purpose or function of the project]**. This project aims to provide various resources that help solve problems related to **[specific field or use case]**. The workbooks are tailored to **[technology stack or domain]** and can be used to address a range of challenges in this area.
+## 📚 Project Description
+`JUSTIT Workbooks` is a collection of workbooks designed to present work progress through JUSTIT Level 3 Data Technician Skilled Bootcamp. This project aims to provide various resources that help solve problems related to data tech. The workbooks are provided to solve relevant problems to practice skills learned through each week of the course.
 
-## Features
-- Feature 1: **[Description of feature]**
-- Feature 2: **[Description of feature]**
-- Feature 3: **[Description of feature]**
+## 📋 Features
+- Feature 1: <span style="background-color:	#008000; padding: 2px; color: white">
+Workbook 1 - Excel
+</span>
 
-## Usage
-1. **Installation**
-    - This project is based on **Python** and requires version **3.x** or higher.
-    - Install the necessary libraries by running:
-      ```bash
-      pip install -r requirements.txt
-      ```
-2. **How to Use**
-    - Open the workbook and run the **[specific task or function]**.
-    - **[Usage example]**:
-      ```python
-      import workbook
-      workbook.function()
-      ```
+- Feature 2: <span style="background-color:	#FFCA1A; padding: 2px; color: black">
+Workbook 2 - Tableau and PowerBI
+</span>
+- Feature 3: <span style="background-color:	#F7470B; padding: 2px; color: white">
+Workbook 3 - Data Structure and SQL
+- Feature 4: <span style="background-color:	#50bcdf; padding: 2px; color: black">
+Workbook 5 - Cloud Computing(Azure) and Data Modelling
+- Feature 5: <span style="background-color:	#125B9F; padding: 2px; color: white
+">
+Workbook 6 - Python and Pandas
+      
 
-## Project Structure
+## 💾 Contents
+## 📖 Week 1 - Excel Essentials
+🔎 VLOOKUP
+
+![VLOOUP](/Workbooks/Week%201/VLOOKUP.png)
+
+🔎 Pivot Table
+
+![VLOOUP](/Workbooks/Week%201/Pivot%20Table.png)
+
+## 📖 Week 2 - Tableau and PowerBI
+🔎 Tableau
+
+![Tableau](/Workbooks/Week%202/Tableau.png)
+
+![Tableau](/Workbooks/Week%202/Tableau2.png)
+
+🔎 PowerBI
+
+![PowerBILab](/Workbooks/Week%202/PowerBIlab.png)
+
+## 📖 Week 3 - Data Structure and SQL
+## 📖 Week 5 - Cloud Computing(Azure) and Data Modelling
+## 📖 Week 6 - Python and Pandas
+
+## 🚧 Project Structure
 JUSTIT_workbooks/ ├── data/ # Data files ├── notebooks/ # Jupyter notebooks or workbooks ├── src/ # Source code ├── requirements.txt # Required libraries ├── README.md # Project description └── LICENSE # License information
 
 ## Contributing
 1. To contribute to this project, please create an **issue** or submit a **pull request**.
 2. Before contributing, please check the **documentation** and, if necessary, provide additional explanations.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
 
