@@ -85,7 +85,35 @@ visualisations through Pandas was also introduced.
 ```
 
 ## 🚧 Project Structure
-JUSTIT_workbooks/ ├── data/ # Data files ├── notebooks/ # Jupyter notebooks or workbooks ├── src/ # Source code ├── requirements.txt # Required libraries ├── README.md # Project description └── LICENSE # License information
+```JUSTIT_workbooks/
+├── 01_Python_Review/
+│   ├── 01_Data_Type.ipynb
+│   ├── 02_Conditional_Statements.ipynb
+│   ├── 03_Loops.ipynb
+│   ├── 04_Function.ipynb
+│   └── ... (기타 파이썬 복습 노트북들)
+│
+├── 02_Pandas/
+│   ├── 01_Series.ipynb
+│   ├── 02_DataFrame.ipynb
+│   ├── 03_Indexing_And_Slicing.ipynb
+│   ├── 04_GroupBy.ipynb
+│   └── ... (기타 Pandas 관련 노트북)
+│
+├── 03_Matplotlib_Seaborn/
+│   ├── 01_Matplotlib_Basics.ipynb
+│   ├── 02_Seaborn_Basics.ipynb
+│   └── ... (시각화 관련 노트북)
+│
+├── 04_SQL/
+│   └── 01_SQL_Basics.ipynb
+│
+├── 05_Numpy/
+│   └── 01_Numpy_Basics.ipynb
+│
+├── README.md
+└── requirements.txt (필요시 생성)
+```
 
 ## Contributing
 1. To contribute to this project, please create an **issue** or submit a **pull request**.
